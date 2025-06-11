@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b1022acd325d9e4ab6ac60325cfac97, type: 3}
+  m_Name: GoldenRing
+  m_EditorClassIdentifier: 
+  itemName: "\uD669\uAE08 \uBC18\uC9C0"
+  rarity: 2
+  itemType: 1
+  icon: {fileID: 21300000, guid: 99ef3495655a85c4e9fec4c853929c31, type: 3}
+  baseValue: 3
+  comboBonusPercent: 2
+  sellPrice: 220
